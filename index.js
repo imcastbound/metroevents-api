@@ -5,7 +5,7 @@ const userData = require('./metroevents_users.json')
 const port = process.env.PORT || 3000
 
 app.get('/', (req ,res)=>{
-    // res.send("Metro Events API")
+    res.send()
 })
 
 app.get('/metroevents', (req, res)=>{
