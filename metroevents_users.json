@@ -1,17 +1,16 @@
-
-    [
-        {
-            "id":1,
-            "gender":"Male",
-            "username":"castbound",
-            "password":"castbound123",
-            "is_admin":true
-        }, 
-        {
-            "id":2,
-            "gender":"Female",
-            "username":"mssquirtle",
-            "password":"mssquirtle123",
-            "is_admin":false
-        }
-    ]
+[
+    {
+        "id":1,
+        "gender":"Male",
+        "username":"castbound",
+        "password":"castbound123",
+        "is_admin":true
+    }, 
+    {
+        "id":2,
+        "gender":"Female",
+        "username":"mssquirtle",
+        "password":"mssquirtle123",
+        "is_admin":false
+    }
+]
