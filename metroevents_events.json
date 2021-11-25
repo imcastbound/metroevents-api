@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "eventDate": "January 5, 2022",
+      "eventName": "Film Festival",
+      "eventDesc": "Watch new movies with everyone!",
+      "participants": 62,
+      "upvotes": 242,
+      "reviews": 7
+    },
+    {
+        "id": 2,
+        "eventDate": "December 23, 2021",
+        "eventName": "Christmas Weeb Party",
+        "eventDesc": "Christmas for anime lovers",
+        "participants": 599,
+        "upvotes": 2590,
+        "reviews": 50
+      },
+      {
+        "id": 3,
+        "eventDate": "February 14, 2022",
+        "eventName": "Prenup Photos",
+        "eventDesc": "Valentines Photography Challenge",
+        "participants": 4,
+        "upvotes": 59,
+        "reviews": 0
+      }
+  ]
